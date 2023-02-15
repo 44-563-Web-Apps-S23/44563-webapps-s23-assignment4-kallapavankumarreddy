@@ -1,10 +1,12 @@
-p{font-family:fantasy; color:green;
-font-size: 26px;
+p{font-family:'Times New Roman', Times, serif; color:green;
+font-size: 20px;
 color:black;
 }
-#direction{font-family: Arial, Helvetica, sans-serif; color:blueviolet;
+#direction{font-family: Arial, Helvetica, sans-serif;
 font-size: 18px;
-color:black;}
+color:black;
+background-color:blueviolet;
+}
 #direction:hover{
     color:red;
     background-color:cadetblue;
@@ -13,5 +15,5 @@ color:black;}
     color:gold;
 }
 .Y{
-    color:darkred;
+    color:darksalmon;
 }
