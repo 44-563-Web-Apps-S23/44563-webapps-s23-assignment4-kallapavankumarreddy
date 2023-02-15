@@ -29,3 +29,13 @@ table{
 tr:nth-child(odd){
     background-color:violet;
 }
+.X:hover{
+    color:brown;
+    text-shadow: 4px 4px 6px orange;
+    border-style:double;
+}
+.Y:hover{
+    color:brown;
+    text-shadow: 4px 4px 6px red;
+    border-style:double;
+}
