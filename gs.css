@@ -24,7 +24,7 @@ table{
     padding: 30px;
     margin-left:0cqw;
     margin-right:0lvb;
-    border-style:cue-region;
+    border-style:outset;
 }
 tr:nth-child(odd){
     background-color:violet;
