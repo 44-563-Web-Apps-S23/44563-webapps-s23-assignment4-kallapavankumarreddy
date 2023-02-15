@@ -1,0 +1,17 @@
+p{font-family:fantasy; color:green;
+font-size: 26px;
+color:black;
+}
+#direction{font-family: Arial, Helvetica, sans-serif; color:blueviolet;
+font-size: 18px;
+color:black;}
+#direction:hover{
+    color:red;
+    background-color:cadetblue;
+}
+.MRS.X.{
+    color:gold;
+}
+.MISSY.{
+    color:darkred;
+}
